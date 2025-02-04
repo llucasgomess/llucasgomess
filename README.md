@@ -58,14 +58,14 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
 </div>
 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats) -->
 
 
 
-## Repositórios Principais
+<!-- ## Repositórios Principais
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
@@ -74,7 +74,7 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Jordan-Shoes&theme=radical)](https://github.com/llucasgomes/Jordan-Shoes)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=api-msql&theme=radical)](https://github.com/llucasgomes/api-msql)
 
-</div>
+</div> -->
 
 ---
 
