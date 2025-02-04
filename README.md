@@ -56,37 +56,33 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 
 ## 📊 **GitHub Stats**
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 
- ![llucasgomes's Stats](https://github-readme-stats.vercel.app/api?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&count_private=true) ![llucasgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+
+</div>
 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats) -->
 
 
 
-
-## Detalhes
-
-- 🔭 Em busca de um oportunidade na área Tech, e atualmente estudando na <strong>Stack X</strong>
-- 🌱 Estou me aprofundando em React e Angular.
-- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
-- 😄 Pronomes: Ele/Dele.
-
-
-## Conheça-me mais...
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/llucasgomess/)
-
 ## Repositórios Principais
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=new-portiflio-reactjs&theme=dark)](https://github.com/llucasgomes/new-portiflio-reactjs)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=blog-challenge&theme=dark)](https://github.com/blog-challenge)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=new-portiflio-reactjs&theme=dark)](https://github.com/llucasgomes/new-portiflio-reactjs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Jordan-Shoes&theme=dark)](https://github.com/llucasgomes/Jordan-Shoes)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=blog-challenge&theme=dark)](https://github.com/blog-challenge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=api-msql&theme=dark)](https://github.com/llucasgomes/api-msql)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Jordan-Shoes&theme=dark)](https://github.com/llucasgomes/Jordan-Shoes)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=api-msql&theme=dark)](https://github.com/llucasgomes/api-msql)
+
+</div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Site-Sushi&theme=dark)](https://github.com/llucasgomes/Site-Sushi) -->
 ---
