@@ -6,15 +6,16 @@
   🚀 Front-end Developer | Apaixonado por tecnologia e design de interfaces interativas.
 </p>
 
-Atualmente, trabalho como porteiro em uma escola de idiomas, garantindo a segurança e o bem-estar de todos. Paralelamente, estou em transição de carreira para a área de tecnologia, um campo que sempre foi minha paixão.
+## Sobre mim  
 
-Recentemente, concluí a formação em <strong>Desenvolvimento Full Stack pela StackX</strong>, onde aprimorei minhas habilidades em <strong>JavaScript, TypeScript, React.js, Next.js, Node.js, bancos de dados SQL e NoSQL</strong>, além de práticas de <strong>TDD, BDD e versionamento com Git/GitHub</strong>.
+Atualmente, trabalho como porteiro em uma escola de idiomas enquanto faço a transição para a área de tecnologia, minha verdadeira paixão.  
 
-Minha jornada profissional inclui <strong>cinco anos na área de segurança privada</strong> e <strong>três anos na área administrativa</strong>, onde atuei como <strong>Auxiliar Administrativo e Comercial</strong>, evoluindo de <strong>Trainee a Sênior</strong>. Esse período me permitiu desenvolver <strong>habilidades interpessoais, organização, trabalho em equipe e resolução de problemas</strong> – todas essenciais para um desenvolvedor.
+Recentemente, concluí a formação em **Desenvolvimento Full Stack pela StackX**, onde aprimorei minhas habilidades em **JavaScript, TypeScript, React.js, Next.js, Node.js, bancos de dados SQL e NoSQL**, além de práticas como **TDD, BDD e versionamento com Git/GitHub**.  
 
-Tive a oportunidade de estagiar na <strong>SD Tecnologia</strong>, onde adquiri experiência prática no desenvolvimento de software, ampliando meus conhecimentos técnicos e fortalecendo minha adaptação ao ambiente de TI.
+Com **cinco anos na segurança privada** e **três anos na área administrativa**, desenvolvi habilidades interpessoais, organização e trabalho em equipe. Durante meu estágio na **SD Tecnologia**, adquiri experiência prática no desenvolvimento de software.  
 
-Sou um profissional <strong>dedicado, comunicativo e colaborativo</strong>, sempre buscando novos desafios e aprimorando minhas competências. Acredito que aprendizado contínuo e prática são fundamentais para o crescimento profissional, e estou determinado a construir minha trajetória na tecnologia.
+Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios** para crescer na área de tecnologia. 🚀
+
 
 ## 🛠 Skills  
 
@@ -51,7 +52,7 @@ Sou um profissional <strong>dedicado, comunicativo e colaborativo</strong>, semp
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llucasgomess&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=llucasgomess&theme=radical" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&layout=compact&theme=radical" alt="GitHub Streak" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&layout=compact&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 
