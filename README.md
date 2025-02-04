@@ -6,6 +6,12 @@
   🚀 Front-end Developer | Apaixonado por tecnologia e design de interfaces interativas.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/llucasgomess" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://llucasgomes-dev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:llucas.gomes.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 ## Sobre mim  
 
 Atualmente, trabalho como porteiro em uma escola de idiomas enquanto faço a transição para a área de tecnologia, minha verdadeira paixão.  
@@ -55,7 +61,7 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 
  ![llucasgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
+ <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats) -->
 
 
 
