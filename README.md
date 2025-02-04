@@ -57,11 +57,8 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 ## 📊 **GitHub Stats**
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
-
 </div>
 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats) -->
@@ -70,21 +67,15 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 
 ## Repositórios Principais
 
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=new-portiflio-reactjs&theme=dark)](https://github.com/llucasgomes/new-portiflio-reactjs)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=blog-challenge&theme=dark)](https://github.com/blog-challenge)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Jordan-Shoes&theme=dark)](https://github.com/llucasgomes/Jordan-Shoes)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=api-msql&theme=dark)](https://github.com/llucasgomes/api-msql)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=new-portiflio-reactjs&theme=radical)](https://github.com/llucasgomes/new-portiflio-reactjs)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=blog-challenge&theme=radical)](https://github.com/blog-challenge)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Jordan-Shoes&theme=radical)](https://github.com/llucasgomes/Jordan-Shoes)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=api-msql&theme=radical)](https://github.com/llucasgomes/api-msql)
 
 </div>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Site-Sushi&theme=dark)](https://github.com/llucasgomes/Site-Sushi) -->
 ---
 
 ## 📬 **Entre em Contato!**
