@@ -49,11 +49,15 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llucasgomess&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=llucasgomess&theme=radical" alt="GitHub Streak" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&layout=compact&theme=radical" alt="GitHub Streak" /> -->
-</p>
+
+
+ ![llucasgomes's Stats](https://github-readme-stats.vercel.app/api?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+ ![llucasgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
+
+
 
 
 ## Detalhes
