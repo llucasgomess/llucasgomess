@@ -2,7 +2,6 @@
 <h3 align="center">Desenvolvedor Full Stack Jr</h3>
 
 <p align="center">
- 
   🚀 Front-end Developer | Apaixonado por tecnologia e design de interfaces interativas.
 </p>
 
