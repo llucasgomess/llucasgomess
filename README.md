@@ -21,6 +21,7 @@ Com **cinco anos na segurança privada** e **três anos na área administrativa*
 
 Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios** para crescer na área de tecnologia. 🚀
 
+---
 
 ## 🛠 Skills  
 
@@ -56,9 +57,7 @@ Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios
 ## 📊 **GitHub Stats**
 
 
- ![llucasgomes's Stats](https://github-readme-stats.vercel.app/api?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
- ![llucasgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&layout=compact)
+ ![llucasgomes's Stats](https://github-readme-stats.vercel.app/api?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&count_private=true) ![llucasgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomess&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=llucasgomess&theme=radical&locale=pt_BR)](https://git.io/streak-stats) -->
 
